@@ -1,0 +1,11 @@
+# Fichiers Python à ignorer
+__pycache__/
+*.pyc
+*.pyo
+.Python
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
