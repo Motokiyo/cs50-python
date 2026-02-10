@@ -13,15 +13,15 @@ Comédien, metteur en scène et technicien dans le spectacle vivant depuis 30 an
 ### Week 0: Functions, Variables
 - [x] indoor - Convert text to indoor voice
 - [x] playback - Slow down text
-- [ ] faces - Convert emoticons to emojis
-- [ ] einstein - Calculate energy from mass
+- [x] faces - Convert emoticons to emojis
+- [x] einstein - Calculate energy from mass
 
 ### Week 1: Conditionals
-- [ ] deep
-- [ ] bank
-- [ ] extensions
-- [ ] interpreter
-- [ ] meal
+- [x] deep
+- [x] bank
+- [x] extensions
+- [x] interpreter
+- [x] meal
 
 ### Prochaines semaines
 - [ ] Week 2: Loops
